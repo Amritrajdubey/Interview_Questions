@@ -1,5 +1,6 @@
 # Interview_Questions
 
 ## Topics:
-### * Python
-### *
+### * Python Seprate
+### * My Sql Seprate
+### * ML , DL 
