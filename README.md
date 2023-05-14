@@ -3,4 +3,4 @@
 ## Topics:
 ### * Python Seprate
 ### * My Sql Seprate
-### * ML , DL 
+### * ML , DL mix  
